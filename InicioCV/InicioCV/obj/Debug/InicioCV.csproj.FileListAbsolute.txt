@@ -1,0 +1,16 @@
+c:\users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\bin\Debug\InicioCV.exe.config
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\bin\Debug\InicioCV.exe
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\bin\Debug\InicioCV.pdb
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\bin\Debug\Emgu.CV.dll
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\bin\Debug\Emgu.CV.UI.dll
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\bin\Debug\Emgu.Util.dll
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\bin\Debug\ZedGraph.dll
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\bin\Debug\Emgu.CV.xml
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\bin\Debug\Emgu.CV.UI.xml
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\bin\Debug\Emgu.Util.xml
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\obj\Debug\InicioCV.csprojResolveAssemblyReference.cache
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\obj\Debug\InicioCV.Form1.resources
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\obj\Debug\InicioCV.Properties.Resources.resources
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\obj\Debug\InicioCV.csproj.GenerateResource.Cache
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\obj\Debug\InicioCV.exe
+C:\Users\jeand\documents\visual studio 2015\Projects\InicioCV\InicioCV\obj\Debug\InicioCV.pdb
