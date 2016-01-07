@@ -1,4 +1,5 @@
 ﻿using Emgu.CV;
+using Emgu.CV.Structure;
 using Emgu.CV.CvEnum;
 using System;
 using System.Collections.Generic;
@@ -44,6 +45,10 @@ namespace InicioCV
             Mat print = _capture.QueryFrame();
             Bitmap img = print.Bitmap;
             SaveFileDialog dialog = new SaveFileDialog();
+            dialog.Filter = "Png Image (.png)|*.png";
+            DateTime date = DateTime.Now;
+            string fileName = date.Day + "-" + date.Month + "-" + date.Year + " " + date.Hour + "-" + date.Minute + "-" + date.Second;
+            dialog.FileName = fileName;
             if (dialog.ShowDialog() == DialogResult.OK)
             {
                 img.Save(dialog.FileName, ImageFormat.Png);
